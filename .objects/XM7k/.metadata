@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge My Apps",
+  "Type": "App",
+  "Id": "XM7kDwZVwUWdtSuxbto3xQ",
+  "Reference": "nJP8ZB-QQUaVIAbIOzUlTg/XM7kDwZVwUWdtSuxbto3xQ",
+  "Created": "2026-02-12T18:36:27.3450514Z",
+  "Updated": "2026-02-12T18:36:27.3450514Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

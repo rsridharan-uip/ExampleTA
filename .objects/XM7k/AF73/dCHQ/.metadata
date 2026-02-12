@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge My Apps",
+  "Type": "Screen",
+  "Id": "dCHQQ33R9EGbtbRik0cRzg",
+  "Reference": "nJP8ZB-QQUaVIAbIOzUlTg/dCHQQ33R9EGbtbRik0cRzg",
+  "ParentRef": "nJP8ZB-QQUaVIAbIOzUlTg/AF73_Sv5w0mvmX5bYpXZoQ",
+  "Created": "2026-02-12T18:36:27.4177821Z",
+  "Updated": "2026-02-12T18:36:27.4177821Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
