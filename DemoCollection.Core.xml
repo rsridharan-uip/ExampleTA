@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoCollection.Core</name>
+    </assembly>
+    <members>
+        <member name="M:DemoCollection.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64,System.Boolean)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_1(System.Boolean)">
+            <summary>
+            Invokes the PendingExecutions/Test Case 1.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_1">
+            <summary>
+            Invokes the PendingExecutions/Test Case 1.xaml
+            </summary>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_2(System.Boolean)">
+            <summary>
+            Invokes the PendingExecutions/Test Case 2.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_2">
+            <summary>
+            Invokes the PendingExecutions/Test Case 2.xaml
+            </summary>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_3(System.Boolean)">
+            <summary>
+            Invokes the PendingExecutions/Test Case 3.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_3">
+            <summary>
+            Invokes the PendingExecutions/Test Case 3.xaml
+            </summary>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_4(System.Boolean)">
+            <summary>
+            Invokes the PendingExecutions/Test Case 4.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_4">
+            <summary>
+            Invokes the PendingExecutions/Test Case 4.xaml
+            </summary>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_5(System.Boolean)">
+            <summary>
+            Invokes the PendingExecutions/Test Case 5.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:DemoCollection.WorkflowRunnerService.Test_Case_5">
+            <summary>
+            Invokes the PendingExecutions/Test Case 5.xaml
+            </summary>
+        </member>
+    </members>
+</doc>
