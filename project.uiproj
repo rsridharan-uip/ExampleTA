@@ -1,5 +1,5 @@
 {
-  "Name": "ExampleTA",
+  "Name": "DemoCollection",
   "ProjectType": "Tests",
   "Description": "Test Automation Project",
   "MainFile": "Main.xaml"

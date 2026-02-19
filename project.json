@@ -1,5 +1,5 @@
 {
-  "name": "ExampleTA",
+  "name": "DemoCollection",
   "projectId": "2fe3ce3b-fa7e-4643-983e-e28dbc5d2b27",
   "description": "Test Automation Project",
   "main": "Main.xaml",
@@ -40,7 +40,43 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "fc04011c-cabf-428a-9a55-b56b74910445",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "PendingExecutions\\Test Case 5.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c92703e9-3a7c-4cd4-a5a1-56d478f2ce29",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "PendingExecutions\\Test Case 4.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "58dfa6b6-0340-4deb-bf68-4933fcbfdfd5",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "PendingExecutions\\Test Case 3.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3a93931a-b4dd-4e5e-90df-d5b3b90a9824",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "PendingExecutions\\Test Case 2.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1a787790-a43f-4da0-8ca8-1fce7ca34ae4",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "PendingExecutions\\Test Case 1.xaml"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
