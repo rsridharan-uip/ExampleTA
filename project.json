@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "25.10.1.0",
-  "projectVersion": "1.0.4",
+  "projectVersion": "1.0.5",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -75,6 +75,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "PendingExecutions\\Hardcoded assertions Pass 3.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bb4e08e8-0233-49dc-9251-e00b21bc675e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Javascript - Session Storage\\Run Javascript Snippet - Session Storage Dev Tools.xaml"
       }
     ],
     "saveToCloud": false

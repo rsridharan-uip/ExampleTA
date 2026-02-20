@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Malaysia Airlines",
+  "Description": "https://online.malaysiaairlines.com",
+  "Type": "App",
+  "Id": "awI9jtBSj0e9uOU2u-j98g",
+  "Reference": "nJP8ZB-QQUaVIAbIOzUlTg/awI9jtBSj0e9uOU2u-j98g",
+  "Created": "2026-02-20T06:10:05.2553962Z",
+  "Updated": "2026-02-20T06:13:50.8583731Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

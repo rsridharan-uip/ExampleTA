@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/testcloud_team/UiPathSMEs/testmanager_",
+  "defaultProject": {
+    "id": "083fcf4f-53a6-0000-0d47-0b4951887a59",
+    "name": "DemoCollection",
+    "key": "DCR"
+  }
 }

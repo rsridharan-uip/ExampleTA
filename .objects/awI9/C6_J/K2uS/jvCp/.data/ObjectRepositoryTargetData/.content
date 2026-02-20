@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6qfCCX_rR0WIulJvsoaiBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="online.malaysiaairlines.com/booking/availability/0" DesignTimeRectangle="1541, 423, 60, 35" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='I' class='menu-chevron refx-icon-chevron-down ng-star-inserted' /&gt;" Guid="6a1015a8-1008-477d-9f9a-a641ea0ab768" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Flight selection' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4bd64f8d7a46a36a4dbe2efb44f2e1ba.png" xmlns="">0awPkmSCldUqacBZ0OjMLkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">InjectJsScript</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

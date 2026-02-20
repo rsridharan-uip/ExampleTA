@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Filter",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "jvCpnk5EH0ySBW72tSXDow",
+  "Reference": "nJP8ZB-QQUaVIAbIOzUlTg/jvCpnk5EH0ySBW72tSXDow",
+  "ParentRef": "nJP8ZB-QQUaVIAbIOzUlTg/K2uS5T7M70WbD9oC4pbtTA",
+  "Created": "2026-02-20T06:10:54.8826513Z",
+  "Updated": "2026-02-20T06:13:20.0830908Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
