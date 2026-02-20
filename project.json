@@ -42,35 +42,35 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "3a93931a-b4dd-4e5e-90df-d5b3b90a9824",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "PendingExecutions\\Hardcoded assertions Fail 2.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "1a787790-a43f-4da0-8ca8-1fce7ca34ae4",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "PendingExecutions\\Hardcoded assertions Fail 1.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "58dfa6b6-0340-4deb-bf68-4933fcbfdfd5",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "PendingExecutions\\Hardcoded assertions Pass 1.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "c92703e9-3a7c-4cd4-a5a1-56d478f2ce29",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "PendingExecutions\\Hardcoded assertions Pass 2.xaml"
       },
       {
-        "editingStatus": "Publishable",
+        "editingStatus": "InProgress",
         "testCaseId": "fc04011c-cabf-428a-9a55-b56b74910445",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,

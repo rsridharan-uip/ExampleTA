@@ -108,13 +108,13 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Flight selection" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,666" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="0c2ea27b-2dcf-4874-9952-07e989e1bee3" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Flight selection" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,668" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="0c2ea27b-2dcf-4874-9952-07e989e1bee3" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,425" sap2010:WorkflowViewState.IdRef="Sequence_5">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,427" sap2010:WorkflowViewState.IdRef="Sequence_5">
             <Sequence.Variables>
               <Variable x:TypeArguments="x:String" Name="output" />
             </Sequence.Variables>
@@ -123,7 +123,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NInjectJsScript InputParameter="{x:Null}" DisplayName="Inject Js Script 'Filter'" sap:VirtualizedContainerService.HintSize="416,195" sap2010:WorkflowViewState.IdRef="NInjectJsScript_2" ScopeIdentifier="0c2ea27b-2dcf-4874-9952-07e989e1bee3" ScriptCode="function (element, input) {&#xD;&#xA;&#xD;&#xA;return sessionStorage.getItem('Ama-Client-Ref');&#xD;&#xA;&#xD;&#xA;}" Version="V5">
+            <uix:NInjectJsScript InputParameter="{x:Null}" DisplayName="Inject Js Script 'Filter'" sap:VirtualizedContainerService.HintSize="416,195" sap2010:WorkflowViewState.IdRef="NInjectJsScript_2" ScopeIdentifier="0c2ea27b-2dcf-4874-9952-07e989e1bee3" ScriptCode="function (element, input) {&#xA;&#xA;return sessionStorage.getItem('Ama-Client-Ref');&#xA;&#xA;}" Version="V5">
               <uix:NInjectJsScript.OutUiElement>
                 <OutArgument x:TypeArguments="ui:UiElement">
                   <CSharpReference x:TypeArguments="ui:UiElement" sap2010:WorkflowViewState.IdRef="CSharpReference`1_3">outputElement</CSharpReference>
