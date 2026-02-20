@@ -77,7 +77,7 @@
         "fileName": "PendingExecutions\\Hardcoded assertions Pass 3.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "bb4e08e8-0233-49dc-9251-e00b21bc675e",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
